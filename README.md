@@ -14,11 +14,13 @@ Formada em Engenharia Florestal na ESALQ/USP, trabalho na minha área liderando 
 💬 Me pergunte sobre produção de florestas
 
 ### 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ligiavgarcia/), [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/liigiagarcia/), [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/liigiagarcia2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ligiavgarcia/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/liigiagarcia/) [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/liigiagarcia2)
+
 
 ### 🛠 Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5), ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql) ![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-000?style=for-the-badge&logo=googleearthengine) ![QGIS](https://img.shields.io/badge/QGis-000?style=for-the-badge&logo=qgis) ![Arcgis](https://img.shields.io/badge/ArcGis-000?style=for-the-badge&logo=arcgis) ![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi)
+
 
 
 ### Github Stats
