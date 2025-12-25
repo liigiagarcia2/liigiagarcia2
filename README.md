@@ -1,17 +1,19 @@
-# Olá, meu nome é Lígia! 👋
+# Lígia Veridiana Garcia
+Analista de Geoprocessamento | GIS & Análise de Dados (em transição)
+
 
 ### 🚀 Sobre mim
 Formada em Engenharia Florestal na ESALQ/USP, trabalho na minha área liderando uma equipe e estou buscando me desenvolver em programação e dados para fazer a transição de carreira.
 
 👩‍💻 Trabalho atualmente na área de Engenharia Florestal
 
-🧠 Estou aprendendo Programação e Data Science
+🧠 Estou aprendendo Programação e Data Science com foco em Geotecnologias (GIS), análise espacial e sensoriamento remoto.
 
 👯‍♀️ Procuro colaborar em projetos inovadores
 
 🤔 Procuro ajuda com a área de tecnologia em geral
 
-💬 Me pergunte sobre produção de florestas
+💬 Me pergunte sobre produção de florestas e sensoriamento remoto.
 
 ### 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ligiavgarcia/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/liigiagarcia/) [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/liigiagarcia2)
